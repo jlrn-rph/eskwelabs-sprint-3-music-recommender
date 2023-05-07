@@ -1,0 +1,57 @@
+track_id,track_name,artist_name,streams,artist_id,duration,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genres
+2IMODbij0lZ5CuAjZi0IDE,Sila,SUD,364,0jKQrxK2zHqxyOAyIMrUQt,326000,0.635,0.376,9.0,-6.1,1.0,0.0457,0.0104,0.0,0.109,0.28,124.57,"['opm', 'pinoy rock']"
+0YyM8aEdbjGfLWPn6fdcn7,Pasensya Ka Na,Silent Sanctuary,365,4nGp682WMiKS4X217kPw8C,241029,0.696,0.262,11.0,-15.073,1.0,0.031,0.519,0.0,0.0669,0.265,84.007,"['opm', 'pinoy rock']"
+6NFKf8vBApSvtzkapYmnVR,Tadhana,Up Dharma Down,365,3wbCeEPAW6po7J46netxMT,222446,0.686,0.322,6.0,-13.2,1.0,0.0369,0.165,0.0296,0.0809,0.511,155.982,"['opm', 'pinoy indie', 'pinoy rock', 'pop rock']"
+6M21eWbEw74XDdoQsNIinq,Malaya (Camp Sawi Original Motion Picture Soundtrack),Moira Dela Torre,365,0rZRTXEmmPmx6gt92tBqIc,254249,0.374,0.125,7.0,-14.847,1.0,0.0383,0.852,4.66e-06,0.321,0.108,114.694,['opm']
+5QVuf1MpdzFtFoJGwcKosa,Stay - On the Wings of Love Teleserye Theme,Daryl Ong,359,1vg8YXdgvLLPPeXZkM7g5W,262086,0.562,0.281,7.0,-8.813,1.0,0.0296,0.841,0.0,0.112,0.306,91.961,"['opm', 'vispop']"
+01YEqVPCm0vqRLA9w43bic,Hanggang Kailan,Michael Pangilinan,363,1t2caVgyabZrVDAlmMGraV,230453,0.404,0.174,9.0,-10.192,1.0,0.0312,0.893,0.0,0.0977,0.324,87.636,['opm']
+2PcbtMoqOlGSzOfyJlkB06,Your Love - Dolce Amore Teleserye Theme,Juris,362,4BNWanhw4AjSXjBm9L1Jzy,250803,0.52,0.309,2.0,-12.039,1.0,0.0534,0.597,0.0,0.102,0.177,150.098,['opm']
+29xs643Q96uQLD8f7SxYYw,Sa'yo,Silent Sanctuary,362,4nGp682WMiKS4X217kPw8C,253360,0.567,0.0896,5.0,-12.944,1.0,0.0343,0.796,0.0,0.218,0.367,79.002,"['opm', 'pinoy rock']"
+7sW3f7PqDV7BQ7qqeVBJIA,Migraine,Moonstar88,363,2kZThDGZcHl4klYYFk0v8n,267560,0.662,0.546,2.0,-5.868,1.0,0.0288,0.204,2.82e-06,0.12,0.196,115.053,"['opm', 'pinoy rock', 'pop rock']"
+0Dljpp52vCmtXi0E94qjfo,"Maybe This Time - From ""Maybe This Time""",Sarah Geronimo,332,6aiCKnIN68hohzU3ZzNq48,255608,0.389,0.273,6.0,-7.697,1.0,0.0362,0.705,0.0,0.117,0.176,134.124,['opm']
+6xQs6y6CpDqK9VKCktApEL,Hiling,Mark Carpio,365,2JEIN1g27pZdm3hKB9EwE5,235009,0.58,0.244,4.0,-9.917,1.0,0.0361,0.808,0.0,0.092,0.385,82.121,['opm']
+4ai7c2BUjNpElhZdZDH7qF,Dahil Sa'Yo,Inigo Pascual,344,0XOSmu9Qn1agQULUVe0dAK,211200,0.764,0.894,0.0,-2.892,1.0,0.0327,0.227,0.0,0.0906,0.963,99.986,['opm']
+3WUEs51GpcvlgU7lehLgLh,Kathang Isip,Ben&Ben,334,4DAcJXcjX0zlQAZAPAx4Zb,318814,0.491,0.314,10.0,-8.58,1.0,0.0301,0.776,4.76e-06,0.152,0.295,126.921,['opm']
+1yDiru08Q6omDOGkZMPnei,Maybe The Night,Ben&Ben,365,4DAcJXcjX0zlQAZAPAx4Zb,217197,0.572,0.522,2.0,-9.095,1.0,0.0367,0.113,4.91e-05,0.114,0.498,74.05,['opm']
+4u8RkgV6P4TLi89SmlUtv8,Mundo,IV Of Spades,365,4k9wp4ipHdA1bu1T4x1ZTG,349713,0.705,0.401,6.0,-8.9,1.0,0.0376,0.176,8.66e-06,0.0735,0.481,140.031,"['opm', 'p-pop', 'pinoy trap', 'pop']"
+00mBzIWv5gHOYxwuEJXjOG,Sa Ngalan Ng Pag-Ibig,December Avenue,365,4qFxP3qN9GsnZDOkAE6x2m,285138,0.518,0.762,7.0,-3.907,1.0,0.0305,0.0851,0.0,0.148,0.271,155.985,"['opm', 'pinoy pop punk']"
+5nMKJJ5Rl6X1yn58aVeICO,Bulong,December Avenue,363,4qFxP3qN9GsnZDOkAE6x2m,270233,0.5,0.728,9.0,-5.472,0.0,0.0313,0.0319,0.0,0.0782,0.351,134.877,"['opm', 'pinoy pop punk']"
+2BgD4nRyx9EZ5o8YEnjRSV,Kung 'Di Rin Lang Ikaw,December Avenue,365,4qFxP3qN9GsnZDOkAE6x2m,267759,0.502,0.482,4.0,-4.736,1.0,0.0288,0.161,0.0,0.187,0.132,133.894,"['opm', 'pinoy pop punk']"
+1X4l4i472kW5ofFP8Xo0x0,Sana - Single Version,I Belong to the Zoo,365,7tKpXx21KVUOR6vvDs6xtg,277098,0.66,0.373,7.0,-7.874,1.0,0.029,0.701,0.0,0.226,0.348,126.887,"['opm', 'pinoy indie']"
+6GIzDc4xBUeYHwubWwTrhC,Kahit Di Mo Alam,December Avenue,348,4qFxP3qN9GsnZDOkAE6x2m,282094,0.45,0.648,10.0,-4.516,1.0,0.0308,0.132,2.37e-05,0.11,0.282,144.814,"['opm', 'pinoy pop punk']"
+5f9808hpiCpuNyqqdXmpF2,Buwan,juan karlos,365,0a4r2EnsevvHCukoJ1xFwJ,343446,0.631,0.381,7.0,-11.808,1.0,0.04,0.447,0.000171,0.0902,0.36,126.008,"['opm', 'pinoy indie']"
+5NXdUJ3Z2jhlp2u1cj6f7m,Balang Araw - Single Version,I Belong to the Zoo,363,7tKpXx21KVUOR6vvDs6xtg,288207,0.523,0.391,7.0,-9.283,1.0,0.0298,0.395,0.0,0.142,0.354,139.905,"['opm', 'pinoy indie']"
+2tzAN1L07SNwnOdgOEeuQr,Pauwi Nako,PDL,356,0iqkVK6sTXi7DZWWOeKy8Q,341573,0.657,0.746,1.0,-6.277,1.0,0.0464,0.0175,0.0,0.107,0.467,136.887,"['pinoy hip hop', 'pinoy r&b']"
+3OpGUlDmRUXh0NkIYWoIlD,Your Song,Parokya Ni Edgar,341,2XHTklRsNMOOQT56Zm3WS4,168493,0.636,0.159,11.0,-13.117,1.0,0.0549,0.892,0.0,0.112,0.658,119.766,"['opm', 'pinoy reggae', 'pinoy rock']"
+6wdCelHrPh7UfliNjwRTUv,Leaves,Ben&Ben,365,4DAcJXcjX0zlQAZAPAx4Zb,310708,0.447,0.16,6.0,-10.896,1.0,0.0372,0.913,0.0,0.0891,0.205,118.313,['opm']
+5l9g7py8RCblcvbZgGQgSd,Pagtingin,Ben&Ben,366,4DAcJXcjX0zlQAZAPAx4Zb,227370,0.669,0.42,2.0,-8.464,1.0,0.0253,0.506,0.0,0.404,0.523,95.049,['opm']
+4rG3h1QwgjSSWz8EIjCFrm,Araw-Araw,Ben&Ben,356,4DAcJXcjX0zlQAZAPAx4Zb,313951,0.475,0.424,11.0,-8.39,1.0,0.0295,0.582,0.0,0.234,0.224,140.903,['opm']
+6VqZS3Wmf53pbfDBVEYvnP,Hindi Tayo Pwede,The Juans,366,1YlibpAvhJBbMZMBwN1KGv,303937,0.283,0.281,11.0,-11.414,1.0,0.035,0.437,0.00114,0.102,0.127,79.919,"['opm', 'p-pop']"
+65sEZZaxTjLMD8vNgPoMz5,Imahe,Magnus Haven,366,28B54RKpJrEmDoGSTjsfY6,321817,0.604,0.446,9.0,-8.01,1.0,0.0341,0.63,0.0,0.0859,0.199,143.946,"['opm', 'p-pop']"
+2Mo4pOpCYXOu33856sMQLh,Make It With You,Ben&Ben,366,4DAcJXcjX0zlQAZAPAx4Zb,209782,0.558,0.458,4.0,-10.711,1.0,0.0485,0.7,2.11e-05,0.186,0.342,86.877,['opm']
+63qA4ydokzNOFpsaNlsYsC,Higa,Arthur Nery,355,7uDdl5V5AETSFY7K3muu22,245760,0.657,0.337,9.0,-10.546,1.0,0.0433,0.45,0.0,0.106,0.183,125.057,"['cdo indie', 'opm', 'p-pop']"
+2v5VIWMjZxeiG52KckiXxS,Ikaw Lamang,Silent Sanctuary,351,4nGp682WMiKS4X217kPw8C,306466,0.394,0.623,9.0,-5.029,1.0,0.0384,0.573,0.0,0.0937,0.316,115.003,"['opm', 'pinoy rock']"
+0HZ3OUVrGHxttD2EuHqRm3,The Day You Said Goodnight,Hale,359,6Ww3OMFzCaO33ulKh1LBFN,291357,0.558,0.553,4.0,-6.669,1.0,0.0323,0.492,0.0,0.116,0.251,134.263,"['opm', 'pinoy reggae', 'pinoy rock']"
+16iRlyUMJVPqz62DlomMre,Ikaw Lang,NOBITA,365,5GVk1KCKa1tdHRev4bMw7V,263500,0.513,0.38,11.0,-11.091,1.0,0.0336,0.12,0.0,0.0924,0.323,120.952,['opm']
+55RMhrPQYA6vLu5YMgXxFD,Binibini,Zack Tabudlo,357,67IN4cLJ7798gUapyZlmac,221538,0.642,0.374,5.0,-10.606,1.0,0.032,0.423,1.54e-06,0.435,0.0979,129.863,"['acoustic opm', 'p-pop', 'pop']"
+63bmIgH9sS6sX5Sc7MetGq,Habang Buhay,Zack Tabudlo,362,67IN4cLJ7798gUapyZlmac,244067,0.62,0.668,9.0,-5.719,1.0,0.0305,0.088,0.0,0.362,0.183,118.013,"['acoustic opm', 'p-pop', 'pop']"
+4iRRAvxPPWXQp3mV1rAbPF,Unang Sayaw,NOBITA,364,5GVk1KCKa1tdHRev4bMw7V,278008,0.5,0.397,9.0,-11.653,1.0,0.0557,0.412,0.0,0.126,0.375,180.045,['opm']
+08MFgEQeVLF37EyZ7jcwLc,Pano,Zack Tabudlo,365,67IN4cLJ7798gUapyZlmac,254400,0.375,0.457,3.0,-7.018,1.0,0.0315,0.868,0.0145,0.191,0.415,174.839,"['acoustic opm', 'p-pop', 'pop']"
+3Eb5sztvEMa0Mqnb8DUAlU,Come Inside Of My Heart,IV Of Spades,90,4k9wp4ipHdA1bu1T4x1ZTG,246396,0.676,0.565,10.0,-9.411,1.0,0.03,0.00321,0.000579,0.241,0.689,113.007,"['opm', 'p-pop', 'pinoy trap', 'pop']"
+3PgjBOoA5OytNGkglObpOd,Sa Susunod na Habang Buhay,Ben&Ben,90,4DAcJXcjX0zlQAZAPAx4Zb,288189,0.311,0.342,2.0,-8.889,1.0,0.032,0.432,1.93e-06,0.114,0.274,177.158,['opm']
+0WZqHCoOBXqgCCIsUZLC2a,Pagsamo,Arthur Nery,90,7uDdl5V5AETSFY7K3muu22,297001,0.644,0.315,6.0,-9.382,1.0,0.0339,0.706,0.00162,0.0962,0.356,60.001,"['cdo indie', 'opm', 'p-pop']"
+7C9Knp9FzLY6RwgktmW9Ge,BMW,Because,81,0n4a5imdLBN24fIrBWoqrv,168205,0.758,0.39,1.0,-9.799,1.0,0.0485,0.567,0.0,0.099,0.238,117.048,"['opm', 'pinoy hip hop', 'pinoy r&b', 'pinoy trap', 'tagalog rap']"
+4IeuTj1pEHuL9vJSiEqEfR,Ligaya,mrld,90,31fsDbpNPKe346urriO4ma,248800,0.458,0.533,0.0,-5.249,1.0,0.0381,0.447,0.0,0.114,0.343,149.832,['opm']
+2xCkiGqGMkAIg6fQTag51C,Sino,Unique Salonga,90,30mZI7Hw2MhoarTVYxfyZM,280426,0.676,0.43,11.0,-10.563,1.0,0.0232,0.169,0.0309,0.109,0.226,104.982,"['opm', 'pinoy city pop', 'pinoy indie']"
+0HAG6nIiEKd75yGpovuSJQ,Isa lang,Arthur Nery,90,7uDdl5V5AETSFY7K3muu22,269256,0.429,0.464,6.0,-8.445,0.0,0.0719,0.783,0.0,0.0846,0.375,121.17,"['cdo indie', 'opm', 'p-pop']"
+5d9Rka4T0szdC1MobhtXrV,Paninindigan Kita,Ben&Ben,90,4DAcJXcjX0zlQAZAPAx4Zb,312234,0.624,0.596,4.0,-9.288,1.0,0.0308,0.107,0.0,0.357,0.75,113.204,['opm']
+1oYQtNQUxSODedcc5hPmp9,Muli,Ace Banzuelo,90,3f0X043zSojego7Qn4Yi6U,290004,0.482,0.881,11.0,-3.62,0.0,0.0533,0.0128,0.0,0.103,0.281,144.02,"['opm', 'p-pop', 'pinoy indie', 'pinoy r&b', 'tagalog rap']"
+4mc3rUoMwwiNTHA4al9nNd,Fallen,Lola Amour,90,29zSTMejPhY0m7kwNQ9SPI,201806,0.652,0.76,6.0,-4.098,0.0,0.0406,0.221,9.09e-05,0.147,0.615,98.079,"['opm', 'pinoy indie']"
+2e7iqtA42EPXTtiiAlblC1,"Babalik Sa'yo (from ""2 Good 2 Be True"")",Moira Dela Torre,90,0rZRTXEmmPmx6gt92tBqIc,229711,0.515,0.65,1.0,-7.798,0.0,0.093,0.168,0.0,0.33,0.695,157.866,['opm']
+0kDeE8TezXDY1QadpjAQQq,Bahala Na,Kenaniah,90,2owtRYReKCG1n2AAS5AcpS,228688,0.874,0.404,11.0,-11.168,1.0,0.0861,0.424,0.000101,0.0959,0.762,122.001,"['opm', 'pinoy indie']"
+4AULw1VRyJP17zMvwgTIUs,Umaasa,Calein,90,0DpLoyGVbhOHNR3ht2oO9y,335624,0.627,0.433,9.0,-9.868,1.0,0.0232,0.295,0.393,0.332,0.353,96.016,"['pinoy city pop', 'pinoy indie']"
+4z7xboLD3PqY9dOUscS2ly,Ikaw Pa Rin,mrld,90,31fsDbpNPKe346urriO4ma,191009,0.412,0.374,4.0,-11.538,1.0,0.0307,0.692,7.38e-06,0.168,0.306,108.926,['opm']
+3h8uWt8HNyDNubPSEBgTPG,Yakap,Zack Tabudlo,90,67IN4cLJ7798gUapyZlmac,178947,0.738,0.39,8.0,-8.437,1.0,0.0334,0.409,0.0,0.107,0.547,113.979,"['acoustic opm', 'p-pop', 'pop']"
+0uZFcsx96wzbixsULmrg8o,Pasilyo,SunKissed Lola,90,4bLLB1dbsRVUTcMpnDGDO2,270250,0.71,0.61,2.0,-4.674,1.0,0.0351,0.415,2.67e-05,0.181,0.404,120.032,['pinoy indie rock']
+2vnd3JVvcLs2LxRFwC6mKu,City Girl,Shanti Dope,85,6ogIjp0fsbUxlqy9q2rvrT,188976,0.684,0.471,0.0,-9.995,1.0,0.0401,0.403,2.96e-05,0.113,0.247,127.026,"['opm', 'pinoy hip hop', 'pinoy r&b', 'pinoy trap', 'tagalog rap']"
+47OFMuRu5lzJHRbtEXPBbs,Uhaw (Tayong Lahat),Dilaw,90213,6Dp4LInLyMVA2qhRqQ6AGL,241185,0.635,0.724,5.0,-6.662,1.0,0.0716,0.28,4e-06,0.105,0.316,135.927,opm
